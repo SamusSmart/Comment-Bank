@@ -1,0 +1,32 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+h2{ 
+    color: #4070a0; 
+    font-weight: normal;
+    font-family: 'Ubuntu', sans-serif; 
+    font-size:2rem;
+} 
+
+tbody{
+    font-family: 'monospace';
+    font: 400 14px monospace;
+}
+
+thead{
+    font-family: 'Ubuntu', sans-serif; 
+}
+
+body{
+    background: #e5dfdb;
+    margin-top:100px;
+    font-family: 'Ropa Sans', sans-serif;
+}
+
+h1{
+    color: #fff;
+    font-weight: normal;
+}
+
+
